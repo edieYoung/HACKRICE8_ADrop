@@ -1,2 +1,7 @@
 # HACKRICE8_ADrop
-This is a repository for Hackrice8
+This is a repository for HackRice8
+
+## Project Environment: 
+Web application literacy
+
+
